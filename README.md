@@ -1,5 +1,5 @@
-# Toy App Exercise Repo
+# Ejercicios de aplicaciones en Android tomados de Udacity
 
-This is a exercise repository for Developing Android Apps. You can learn more about how to use this repository [here](https://classroom.udacity.com/courses/ud851/lessons/93affc67-3f0b-4f9b-b3a4-a7a26f241a86/concepts/115d08bb-f114-46fa-b693-5c6ce1445c07)
+Este es un repositorio de aplicaciones en Android que he tomado en Udacity. Si alguna persona esta interesada en el repositorio directo de Udacity lo pueden encontrar [aquí](https://github.com/udacity/ud851-Exercises)
 
-
+Este repositorio tiene unicamente fines académicos y el material con el que he aprendido es de Udacity.
